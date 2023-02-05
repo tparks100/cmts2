@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+Sitemap: https://example.gov/sitemap/sitemap-index.xml
+Host: https://example.gov
